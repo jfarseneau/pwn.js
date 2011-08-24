@@ -4,11 +4,11 @@
 function AudioController(audioDivId) {
 	// Controls audio elements.
 	/*--------------------------Properties----------------------------------------
-	 * Property Name		| Type					| Description
+	 * Property Name       | Type                  | Description
 	 * ---------------------------------------------------------------------------
-	 * +count				: Integer	{RO}		| Number of sounds for the controller
-	 * +sounds				: AudioSound[]			| An array of AudioSound objects
-	 * +channels			: Integer	{RO}		| Number of channels that can be used
+	 * +count              : Integer   {RO}        | Number of sounds for the controller
+	 * +sounds             : AudioSound[]          | An array of AudioSound objects
+	 * +channels           : Integer   {RO}        | Number of channels that can be used
 	 * - audioBox  
 	 ----------------------------------------------------------------------------*/
 	 
